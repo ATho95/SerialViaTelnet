@@ -1,0 +1,14 @@
+{
+  "name": "SerialViaTelnet",
+  "keywords": "telnet, serial, debugging, communication, logging",
+  "description": "An Arduino library for sending/receiving data via telnet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ATho95/SerialViaTelnet"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": [
+    "ESP32", "ESP8266"
+  ]
+}
