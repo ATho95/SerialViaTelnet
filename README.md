@@ -65,7 +65,7 @@ SerialTelnet.HWSerial.printf("example %d\n", x);
    SerialTelnet.HWSerial.println()
 ```
 #### Installation
-Download the library as .zip file
+Download the library as [.zip file](https://github.com/ATho95/SerialViaTelnet/archive/main.zip)
 
 Follow the Arduino instruction [how to add a .zip library](https://www.arduino.cc/en/guide/libraries#toc4)
 
